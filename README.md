@@ -17,3 +17,7 @@ Currently, I'm a Senior AI Engineer at Genentech training foundation models for 
 
 #### 📚 Archive & Writing
 * **[Project Infinome / Research Blog](https://blog.infino.me/bpa/)**: Research, writing, and history from my decade running Infinome, a self-funded computational biology nonprofit.
+
+#### Ancient projects
+* [QuarantineAtHome](https://quarantine.infino.me/) was an emergency project that was [rapidly built during the first two months](https://covidglobalhackathon.com/projects/quarantinehome) of the covid pandemic. I lead the development of a "Seti@Home" and "FoldingAtHome" inspired drug docking experiment to find compounds that would target the spike protein and the Sars-Cov2 main protease. This project eventually got me a job working at Vir biotech where I developed a more refined internal docking pipeline.
+* [Hungrybot](https://www.infino.me/hungrybot) was [arguably the first](https://news.ycombinator.com/item?id=11712751) ever released AI food recognition app, a year before [NotHotdog](https://www.youtube.com/watch?v=ACmydtFDTGs), and unlike NotHotdog, HungryBot also provided genomics analysis! This is probably the most insanely ambitious thing I ever built.
